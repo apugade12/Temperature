@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+
+}
+.conatiner{
+    padding:200px;
+    margin:90px;
+    margin-left: -20px;;
+    border: 2px solid black;
+    height:40px;
+    width: 125px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+    
+
+}
